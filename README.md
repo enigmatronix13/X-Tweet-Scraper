@@ -47,9 +47,7 @@ KEYWORDS = [
     "keyword1", "keyword2", "keyword3"
 ]
 ```
-
-To run headless (without opening the browser):
-
+To run the browser in the background, uncomment:
 ```python
 # options.add_argument('--headless')
 ```
